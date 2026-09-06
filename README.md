@@ -13,4 +13,4 @@ Hi There
 - **Familiar / Working Knowledge:**
   - Languages: C, C++, C#
   - Frontend: React, Tailwind CSS, HTML5, CSS3
-  - Cloud: AWS (Fundamental services)
+  - Cloud: Google Cloud (Fundamental services)
