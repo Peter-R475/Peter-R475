@@ -30,7 +30,7 @@
 
 - **APIs & Auth:** 
   RESTful APIs, 
-  <img src="https://assets.iconin.me/jwt.svg" height="16" alt="JWT" /> JWT
+  <img src="https://cdn.simpleicons.org/jsonwebtokens/000000" height="16" alt="JWT" /> JWT
 
 - **DevOps & Cloud:** 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="16" alt="Docker" /> Docker, 
@@ -40,6 +40,9 @@
 
 - **Tools & Environments:** 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="16" alt="VS Code" /> VS Code, 
-  <img src="https://assets.iconin.me/xampp.svg" height="16" alt="XAMPP" /> XAMPP
+  <img src="https://cdn.simpleicons.org/xampp/FB7A24" height="16" alt="XAMPP" /> XAMPP
+
+---
+*Favorite Python module:* `import antigravity` 🚀
 
 Business Email: ?
