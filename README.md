@@ -2,15 +2,18 @@ Hi There
 
 ### Technical Skills
 
-- **Primary Focus (Backend & Core):**
-  - Languages: JavaScript (Node.js/Express), PHP (Laravel), Python
-  - Databases: PostgreSQL, MySQL
-  - Core Concepts: RESTful APIs, JWT Authentication, Relational Schema Design
+Languages: 🔵 C · 🔷 C++ · 🟣 C# · 🟨 JavaScript · 🐍 Python · 🐘 PHP
 
-- **Infrastructure & Tools:**
-  - Git, GitHub, Linux/Unix Environments, Docker (Basics)
+Frontend: ⚛️ React · ▲ Next.js · 🟢 Vue.js · 🎨 Tailwind CSS · 🌐 HTML5 · 🎭 CSS3
 
-- **Familiar / Working Knowledge:**
-  - Languages: C, C++, C#
-  - Frontend: React, Tailwind CSS, HTML5, CSS3
-  - Cloud: Google Cloud (Fundamental services)
+Backend: 🟩 Node.js (Express) · 🔴 PHP (Laravel)
+
+Databases: 🐘 PostgreSQL · 🐬 MySQL · 🪶 SQLite
+
+APIs & Services: 🔌 RESTful APIs · 📐 API Design & Lifecycle · 🛡️ API Security & Traffic Control · 🔑 JWT
+
+Networking & Protocols: 🌐 HTTP/HTTPS · 📡 Networking Fundamentals (TCP/IP, DNS)
+
+DevOps & Cloud: 🐳 Docker · 🟧 AWS · ☁️ Google Cloud · 🛡️ Cloudflare
+
+Tools & Platforms: 🔀 Git · 🐙 GitHub · 🐧 Linux/Unix Environments
