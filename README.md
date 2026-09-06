@@ -40,9 +40,5 @@
 
 - **Tools & Environments:** 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="16" alt="VS Code" /> VS Code, 
-  <img src="https://cdn.simpleicons.org/xampp/FB7A24" height="16" alt="XAMPP" /> XAMPP
-
----
-*Favorite Python module:* `import antigravity` 🚀
-
-Business Email: ?
+  <img src="https://cdn.simpleicons.org/xampp/FB7A24" height="16" alt="XAMPP" /> XAMPP, 
+  <img src="https://api.iconify.design/lucide:rocket.svg" height="16" alt="Antigravity" /> Antigravity
